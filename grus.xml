@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-19.1" />
+
+  <project name="kyasu/android_kernel_xiaomi_sdm710" path="kernel/xiaomi/sdm710" remote="github" revision="lineage-19.1" />
+  <project name="kyasu/android_device_xiaomi_grus" path="device/xiaomi/grus" remote="github" revision="lineage-19.1" />
+  <project name="kyasu/android_vendor_xiaomi_grus" path="vendor/xiaomi/grus" remote="github" revision="lineage-19.1" />
+
+</manifest>
